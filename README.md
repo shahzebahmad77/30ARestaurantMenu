@@ -1,4 +1,4 @@
-# Mexican-American Restaurant Order System  
+# CIS-30A Final Project Winter 2025 Mexican-American Restaurant Order System 
 
 A simple restaurant ordering system made with Python and Tkinter. This program allows users to order food, choose extras, and save their order to a file. The menu is managed in a separate module (`menu.py`) for better organization.  
 
