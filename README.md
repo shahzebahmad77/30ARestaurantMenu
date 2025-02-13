@@ -15,7 +15,7 @@ This project is a restaurant order system built with Python and Tkinter. It allo
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/shahzebahmad77/30ARestaurantMenu
 
 2. **Install Python**:
 - If Python is not already installed, download and install it from [Python Downloads](https://www.python.org/downloads/).
